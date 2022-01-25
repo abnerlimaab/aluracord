@@ -2,7 +2,7 @@
 
 ## Nesse Projeto de uma single page application 
 - Ultilizamos a Biblioteca SkynexUI.
-- ultilizamos támbem o Framework Next.js.
+- ultilizamos também o Framework Next.js.
 
 Tecnologias ultilizadas nesse Projeto:
 - HTML/ CSS / JS 
