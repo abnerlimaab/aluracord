@@ -8,4 +8,4 @@ Tecnologias ultilizadas nesse Projeto:
 - HTML/ CSS / JS 
 - REACT JS
 
-https://github.com/CostaDayana/Projeto_React_Router/blob/master/src/assets/img/Capturar.PNG
+![img](https://github.com/abnerlimaab/aluracord/blob/main/img/Captura%20da%20Web_24-1-2022_22648_localhost.jpeg)
