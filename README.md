@@ -14,4 +14,4 @@ Tecnologias ultilizadas nesse Projeto:
 
 ### Dia 02 - States e introdução ao roteamento
 
-![img]()
+![img](https://github.com/abnerlimaab/aluracord/blob/main/img/useState.gif)
